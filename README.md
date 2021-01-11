@@ -1,2 +1,2 @@
 # TheNetwork
-A website for TheNetwork App
+A website for LuniaNetwork App

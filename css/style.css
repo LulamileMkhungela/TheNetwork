@@ -1,6 +1,5 @@
-/*<!--A Design by Lulamile
-Author: Lulamile
-App URL: https://play.google.com/store/apps/details?id=com.thenetwork.app.android.thenetwork
+/*<!--Author: Lulamile
+App URL: https://play.google.com/store/apps/details?id=com.lunianetwork.app.android.lunianetwork
 -->*/
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,nav ul,nav li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
@@ -8,7 +7,7 @@ ol,ul{list-style:none;margin:0;padding:0;}
 blockquote,q{quotes:none;}
 blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
 table{border-collapse:collapse;border-spacing:0;}
-/* start editing from here */
+/* start */
 a{text-decoration:none;}
 .txt-rt{text-align:right;}/* text align right */
 .txt-lt{text-align:left;}/* text align left */
@@ -170,7 +169,7 @@ img{max-width:100%;}
 	-moz-border-radius: 0px 0px 10px 10px;
 	-o-border-radius: 0px 0px 10px 10px;
 }
-/*  GRID OF Content and sidebar   ============================================================================= */
+/*  GRID OF Conten  */
 .section {
 	clear: both;
 	padding: 0px;
@@ -201,7 +200,7 @@ img{max-width:100%;}
 .span_2_of_3 {
 	width: 66.1%;
 }
-/*  GRID OF Four   ============================================================================= */
+/*  GRID OF Four */
 .section {
 	clear: both;
 	padding: 0px;
@@ -380,7 +379,7 @@ img{max-width:100%;}
   	padding:15px 0;
     background:#35495e;
  }
- /*  GRID OF FOUR   ============================================================================= */
+ /*  GRID OF FOUR  */
 .section {
 	clear: both;
 	padding: 0px;
@@ -653,7 +652,7 @@ img{max-width:100%;}
 .download_list  li:hover a{
 	text-decoration:none;
 }
- /*  Contact Form  ============================================================================= */
+ /*  Contact Form  */
 .section {
 	clear: both;
 	padding: 0px;
